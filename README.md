@@ -12,6 +12,8 @@ Program ini dibuat menggunakan bahasa python dengan fitur:
 - while dan if untuk kontrol alur.
 - append() dan break untuk menambah data ke list dan menghentikan perulangan.
 - print() dan F-string untuk mencetak hasil dalam bentuk tabel yang terformat.
+## Flowchart Programan
+![Flowchart](https://github.com/Dwiokta10/Praktikum5/blob/main/flowchartprak5.png)
 # Kode Program
 ```python
 # Inisialisasi list untuk menyimpan data
